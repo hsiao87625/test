@@ -10,7 +10,6 @@ docutils==0.15.2
 gunicorn==19.9.0
 idna==2.8
 Kivy==1.11.1
-kivy-deps.angle==0.1.9
 kivy-deps.glew==0.1.12
 kivy-deps.gstreamer==0.1.17
 kivy-deps.sdl2==0.1.22
